@@ -4,6 +4,7 @@
 #include <cstdlib>
 #include <iostream>
 #include <string>
+#include <cmath>
 
 float decodeSIprefix (const char* arg) {
   std::string str(arg);
